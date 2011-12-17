@@ -16,7 +16,13 @@ For further information, please visit the official plugin site: [Socialist - Tra
 
 == Installation ==
 
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+1. Download Socialist - Tracking your Social Reach
+2. Extract the .zip file.
+3. Upload the “sociallist” directory to your WordPress plugins directory under the following path:
+/wp-content/plugins/
+4. Login to WordPress control panel.
+5. Navigate to “Plugins” section.
+6. Click on “activate” under “Socialist - Tracking your Social Reach”
 
 == Frequently Asked Questions ==
 
